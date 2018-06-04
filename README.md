@@ -1,6 +1,6 @@
-### UCSC Utilities
+### Dockerfile of UCSC Utilities (docker_ucscutil)
 
-This repository contains the Dockerfile of the UCSC Utilities.
+This repository contains the Dockerfile of UCSC Utilities.
 
 ## Table of Contents
 Utilities from [UCSC](http://hgdownload.soe.ucsc.edu/admin/exe/)
